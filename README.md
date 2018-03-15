@@ -1,3 +1,5 @@
+> Fork of https://github.com/anitasv/zoom
+
 # Zoom it!
 Allows your users to zoom, rotate, and pan images using touch gestures.
 
@@ -7,7 +9,7 @@ Type| Link | Size
 -|-|-
 Minified | http://anitasv.github.io/zoom/zoom-1.0.7.min.js | 2184 bytes (gzip: 1024 bytes)
 Debugging | http://anitasv.github.io/zoom/zoom-1.0.7.js | 10815 bytes
-NPM | https://www.npmjs.com/package/zoom-it | 
+NPM | https://www.npmjs.com/package/zoom-it |
 
 For an explanation of math see https://github.com/anitasv/zoom/wiki/Explaining-Math
 
