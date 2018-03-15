@@ -1,6 +1,6 @@
 {
   "name": "touch-zoom",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "Allows to pinch zoom, rotate, pan any HTML element.",
   "main": "zoom.js",
   "scripts": {
