@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/anitasv/zoom.git"
+    "url": "git+https://github.com/jelmerdemaat/touch-zoom.git"
   },
   "keywords": [
     "zoom",
@@ -19,9 +19,9 @@
   "author": "Anita SV <anitasvasu@gmail.com> (https://github.com/anitasv/)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/anitasv/zoom/issues"
+    "url": "https://github.com/jelmerdemaat/touch-zoom/issues"
   },
-  "homepage": "https://github.com/anitasv/zoom#readme",
+  "homepage": "https://github.com/jelmerdemaat/touch-zoom#readme",
   "files": [
     "zoom.js",
     "zoom.min.js",
